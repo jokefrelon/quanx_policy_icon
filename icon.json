@@ -1,0 +1,22 @@
+{
+	"icons":[
+		{
+		"name":"AliPay_.png",
+		"url":"http://li.jokeme.top:8098/icons/alipay.png"
+		},{
+			"name":"KuWo_.png",
+			"url":"http://li.jokeme.top:8098/icons/kuwo.png"
+		},{
+			"name":"KuGou_.png",
+			"url":"http://li.jokeme.top:8098/icons/kugou.png"
+		},{
+			"name":"QiShui_.png",
+			"url":"http://li.jokeme.top:8098/icons/qishui.png"
+		},{
+			"name":"ICQ_",
+			"url":"http://li.jokeme.top:8098/icons/icq.png"
+		}
+	],
+	"name":"Frelon Lee",
+	"description":"Additional items"
+}
