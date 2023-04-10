@@ -144,6 +144,9 @@
 		},{
 			"name":"YouTubeMusic_ytm",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/youtube_music.png"
+		},{
+			"name":"Spotify",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/spotify"
 		}	
 	],
 	"name":"Frelon Lee",
