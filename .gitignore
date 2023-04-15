@@ -1,6 +1,9 @@
 ariaweb
-index.html  
+*.html  
 rule  
 subs  
 subs4sk
 index.nginx-debian.html
+*.swp
+*.txt
+*.crt
