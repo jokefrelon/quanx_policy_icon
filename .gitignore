@@ -7,3 +7,4 @@ index.nginx-debian.html
 *.swp
 *.txt
 *.crt
+.sync
