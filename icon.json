@@ -153,6 +153,12 @@
 		},{
 			"name":"Xiaohonshu_xhs",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/xiaohonshu.png"
+		},{
+			"name":"KakaoTalk",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/kakao.png"
+		},{
+			"name":"Line",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/line.png"
 		}
 	],
 	"name":"Frelon Lee",
