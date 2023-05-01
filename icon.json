@@ -165,6 +165,12 @@
 		},{
 			"name":"GitHub",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/github.png"
+		},{
+			"name":"VK",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/vk.png"
+		},{
+			"name":"Yandex",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/yandex.png"
 		}
 	],
 	"name":"Frelon Lee",
