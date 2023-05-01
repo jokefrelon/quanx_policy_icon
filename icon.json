@@ -159,6 +159,9 @@
 		},{
 			"name":"Line",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/line.png"
+		},{
+			"name":"OpenAI",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/openai.png"
 		}
 	],
 	"name":"Frelon Lee",
