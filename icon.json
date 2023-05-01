@@ -162,6 +162,9 @@
 		},{
 			"name":"OpenAI",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/openai.png"
+		},{
+			"name":"GitHub",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/github.png"
 		}
 	],
 	"name":"Frelon Lee",
