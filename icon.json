@@ -171,6 +171,12 @@
 		},{
 			"name":"Yandex",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/yandex.png"
+		},{
+			"name":"Tesla",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/Tesla.png"
+		},{
+			"name":"Nasa",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/Nasa.png"
 		}
 	],
 	"name":"Frelon Lee",
