@@ -8,3 +8,4 @@ index.nginx-debian.html
 *.txt
 *.crt
 .sync
+*.txt
