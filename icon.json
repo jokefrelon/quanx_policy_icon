@@ -183,8 +183,17 @@
 		},{
 			"name":"TVer",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/tver.png"
+		},{
+			"name":"ChinaMobile_zgyd",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/chinamobile_zgyd.png"
+		},{
+			"name":"ChinaTelecom_zgdx",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/chinatelecom_zgdx.png"
+		},{
+			"name":"ChinaUnicom_zglt",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/chinaunicom_zglt.png"
 		}
 	],
-	"name":"Frelon Lee",
-	"description":"Additional items"
+	"name":"LEE",
+	"description":"群管不在!搞点颜色!"
 }
