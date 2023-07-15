@@ -192,6 +192,9 @@
 		},{
 			"name":"ChinaUnicom_zglt",
 			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/chinaunicom_zglt.png"
+		},{
+			"name":"Claude",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/claude.png"
 		}
 	],
 	"name":"LEE",
